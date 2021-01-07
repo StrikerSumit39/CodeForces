@@ -1,4 +1,21 @@
 {
+  "CF103664420": {
+    "contest_id": 245,
+    "language": "GNU C++17",
+    "path": "codeforces\\245\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Internet Address",
+    "problem_url": "https://codeforces.com/contest/245/problem/B",
+    "submission_id": "CF103664420",
+    "submission_url": "https://codeforces.com/contest/245/submission/103664420",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jan/08/2021 00:31"
+  },
   "CF104312802": {
     "contest_id": 1473,
     "language": "GNU C++17",
