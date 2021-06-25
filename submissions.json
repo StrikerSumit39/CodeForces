@@ -1,4 +1,21 @@
 {
+  "CF120530018": {
+    "contest_id": 988,
+    "language": "GNU C++17",
+    "path": "codeforces\\988\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Equal Sums",
+    "problem_url": "https://codeforces.com/contest/988/problem/C",
+    "submission_id": "CF120530018",
+    "submission_url": "https://codeforces.com/contest/988/submission/120530018",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jun/25/2021 20:11"
+  },
   "CF120548457": {
     "contest_id": 1541,
     "language": "GNU C++17",
