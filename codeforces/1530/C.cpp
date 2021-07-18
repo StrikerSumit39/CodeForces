@@ -61,7 +61,7 @@ int32_t  main()
 {
 	fastio
 
-	// vok();
+	vok();
 
 	// pmap(m)
 	int t=1; 
