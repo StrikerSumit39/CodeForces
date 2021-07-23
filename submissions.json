@@ -1583,6 +1583,23 @@
     ],
     "timestamp": "Jun/27/2021 17:54"
   },
+  "CF123457752": {
+    "contest_id": 1551,
+    "language": "GNU C++17",
+    "path": "codeforces\\1551\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Polycarp and Coins",
+    "problem_url": "https://codeforces.com/contest/1551/problem/A",
+    "submission_id": "CF123457752",
+    "submission_url": "https://codeforces.com/contest/1551/submission/123457752",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/23/2021 20:16"
+  },
   "CF123721786": {
     "contest_id": 1552,
     "language": "GNU C++17",
